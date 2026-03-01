@@ -84,7 +84,7 @@ Breaking down the Syft command:
 
 Syft indexed the entire filesystem and **cataloged 176 packages**, identifying Python packages, npm modules, and other components present in the repository's build tooling and scripts.
 
-![Syft scan output showing 176 packages cataloged](https://github.com/luces001207/Software-Bill-of-Materials-SBOM-Analysis/blob/main/screenshots/syft_scan.png)
+![Syft scan output showing 176 packages cataloged](screenshots/Syftscan.png)
 
 ### Step 3: Install and Run Anchore Grype
 
